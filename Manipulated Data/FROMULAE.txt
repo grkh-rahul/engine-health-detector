@@ -1,0 +1,4 @@
+=SUBSTITUTE(SUBSTITUTE(A2,"[",""),"]","")
+=VALUE(F2)
+=SUM(B2:G2)
+=IF(H2<4.3,0,1)
